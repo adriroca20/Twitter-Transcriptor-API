@@ -1,1 +1,1 @@
-web: gunicorn TwitterTranscriptorAPI:wsgi
+web: gunicorn TwitterTranscriptorAPI.wsgi
