@@ -1,7 +1,6 @@
 import requests
 import json
 import time
-# from googletrans import Translator
 
 import io
 from reportlab.lib.pagesizes import letter
